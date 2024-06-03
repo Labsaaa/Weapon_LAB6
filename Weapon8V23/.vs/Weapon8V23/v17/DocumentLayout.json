@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Weapon8V23\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}|Weapon8V23\\Weapon8V23.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c\u002B\u002B\\weapon8v23\\weapon8v23\\machinegunwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}|Weapon8V23\\Weapon8V23.csproj|solutionrelative:weapon8v23\\machinegunwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}|Weapon8V23\\Weapon8V23.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c\u002B\u002B\\weapon8v23\\weapon8v23\\mainwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}|Weapon8V23\\Weapon8V23.csproj|solutionrelative:weapon8v23\\mainwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}|Weapon8V23\\Weapon8V23.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c\u002B\u002B\\weapon8v23\\weapon8v23\\bladewin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}|Weapon8V23\\Weapon8V23.csproj|solutionrelative:weapon8v23\\bladewin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}|Weapon8V23\\Weapon8V23.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c\u002B\u002B\\weapon8v23\\weapon8v23\\gunwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}|Weapon8V23\\Weapon8V23.csproj|solutionrelative:weapon8v23\\gunwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}|Weapon8V23\\Weapon8V23.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c\u002B\u002B\\weapon8v23\\weapon8v23\\bladewin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}|Weapon8V23\\Weapon8V23.csproj|solutionrelative:weapon8v23\\bladewin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}|Weapon8V23\\Weapon8V23.csproj|c:\\users\\\u043C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\c\u002B\u002B\\weapon8v23\\weapon8v23\\machinegunwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}|Weapon8V23\\Weapon8V23.csproj|solutionrelative:weapon8v23\\machinegunwin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,39 +39,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Weapon8V23\\Weapon8V23\\MainWin.cs",
+              "RelativeDocumentMoniker": "Weapon8V23\\MainWin.cs",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Weapon8V23\\Weapon8V23\\MainWin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "Weapon8V23\\MainWin.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:14:08.162Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "MachinegunWin.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Weapon8V23\\Weapon8V23\\MachinegunWin.cs",
               "RelativeDocumentMoniker": "Weapon8V23\\MachinegunWin.cs",
-              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Weapon8V23\\Weapon8V23\\MachinegunWin.cs*",
-              "RelativeToolTip": "Weapon8V23\\MachinegunWin.cs*",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAuAAAA",
+              "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Weapon8V23\\Weapon8V23\\MachinegunWin.cs",
+              "RelativeToolTip": "Weapon8V23\\MachinegunWin.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACUAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-02T12:42:41.714Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "GunWin.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Weapon8V23\\Weapon8V23\\GunWin.cs",
               "RelativeDocumentMoniker": "Weapon8V23\\GunWin.cs",
               "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Weapon8V23\\Weapon8V23\\GunWin.cs",
               "RelativeToolTip": "Weapon8V23\\GunWin.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAAC0AAAAAAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAACIAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T12:42:13.981Z"
+              "WhenOpened": "2024-06-02T12:42:13.981Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "BladeWin.cs",
               "DocumentMoniker": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Weapon8V23\\Weapon8V23\\BladeWin.cs",
               "RelativeDocumentMoniker": "Weapon8V23\\BladeWin.cs",
               "ToolTip": "C:\\Users\\\u041C\u0430\u043A\u0441\u0438\u043C\u043A\u0430\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\C\u002B\u002B\\Weapon8V23\\Weapon8V23\\BladeWin.cs",
               "RelativeToolTip": "Weapon8V23\\BladeWin.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAADwvy4AAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-02T12:41:29.287Z"
+              "WhenOpened": "2024-06-02T12:41:29.287Z",
+              "EditorCaption": ""
             }
           ]
         }

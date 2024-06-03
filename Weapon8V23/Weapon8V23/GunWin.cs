@@ -31,9 +31,9 @@ namespace Weapon8V23
         {
             create = true;
             name = gunName.Text;
-            weight = int.Parse(gunWeight.Text);
-            capacity = (int)gunCapacity.Value;
-            calibre = double.Parse(gunCalibre.Text);
+            weight = Math.Abs(int.Parse(gunWeight.Text));
+            capacity = Math.Abs((int)gunCapacity.Value);
+            calibre = Math.Abs(double.Parse(gunCalibre.Text));
             Close();
         }
 

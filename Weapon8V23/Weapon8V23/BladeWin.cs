@@ -32,9 +32,9 @@ namespace Weapon8V23
         {
             create = true;
             name = bladeName.Text;
-            weight = int.Parse(bladeWeight.Text);
-            length = (int)bladeLength.Value;
-            handCount = (int)bladeHandCount.Value;
+            weight = Math.Abs(int.Parse(bladeWeight.Text));
+            length = Math.Abs((int)bladeLength.Value);
+            handCount = Math.Abs((int)bladeHandCount.Value);
             Close();
         }
 
