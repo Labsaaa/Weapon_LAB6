@@ -25,6 +25,7 @@ namespace Weapon8V23
             gunWeight.Text = weight.ToString();
             gunCapacity.Value = (decimal)capacity;
             gunCalibre.Text = calibre.ToString();
+            StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void onBtnSet(object sender, EventArgs e)

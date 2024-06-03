@@ -41,29 +41,31 @@
             // 
             // weaponList
             // 
-            weaponList.Font = new Font("Liberation Mono", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            weaponList.Font = new Font("Microsoft Sans Serif", 9F, FontStyle.Regular, GraphicsUnit.Point, 0);
             weaponList.FormattingEnabled = true;
-            weaponList.ItemHeight = 17;
-            weaponList.Location = new Point(12, 78);
+            weaponList.ItemHeight = 15;
+            weaponList.Location = new Point(10, 58);
+            weaponList.Margin = new Padding(3, 2, 3, 2);
             weaponList.Name = "weaponList";
-            weaponList.Size = new Size(458, 293);
+            weaponList.Size = new Size(401, 214);
             weaponList.TabIndex = 0;
             weaponList.Click += onWeaponListClick;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(12, 9);
+            label1.Location = new Point(10, 7);
             label1.Name = "label1";
-            label1.Size = new Size(112, 20);
+            label1.Size = new Size(89, 15);
             label1.TabIndex = 1;
             label1.Text = "List of weapons";
             // 
             // addBtn
             // 
-            addBtn.Location = new Point(12, 443);
+            addBtn.Location = new Point(10, 332);
+            addBtn.Margin = new Padding(3, 2, 3, 2);
             addBtn.Name = "addBtn";
-            addBtn.Size = new Size(134, 48);
+            addBtn.Size = new Size(117, 36);
             addBtn.TabIndex = 2;
             addBtn.Text = "Add weapon";
             addBtn.UseVisualStyleBackColor = true;
@@ -71,9 +73,10 @@
             // 
             // editBtn
             // 
-            editBtn.Location = new Point(171, 443);
+            editBtn.Location = new Point(150, 332);
+            editBtn.Margin = new Padding(3, 2, 3, 2);
             editBtn.Name = "editBtn";
-            editBtn.Size = new Size(134, 48);
+            editBtn.Size = new Size(117, 36);
             editBtn.TabIndex = 3;
             editBtn.Text = "Edit";
             editBtn.UseVisualStyleBackColor = true;
@@ -81,9 +84,10 @@
             // 
             // removeBtn
             // 
-            removeBtn.Location = new Point(336, 443);
+            removeBtn.Location = new Point(294, 332);
+            removeBtn.Margin = new Padding(3, 2, 3, 2);
             removeBtn.Name = "removeBtn";
-            removeBtn.Size = new Size(134, 48);
+            removeBtn.Size = new Size(117, 36);
             removeBtn.TabIndex = 4;
             removeBtn.Text = "Remove";
             removeBtn.UseVisualStyleBackColor = true;
@@ -92,44 +96,44 @@
             // label2
             // 
             label2.AutoSize = true;
-            label2.Location = new Point(12, 385);
+            label2.Location = new Point(10, 289);
             label2.Name = "label2";
-            label2.Size = new Size(73, 20);
+            label2.Size = new Size(57, 15);
             label2.TabIndex = 5;
             label2.Text = "Total cost";
             // 
             // costLabel
             // 
             costLabel.AutoSize = true;
-            costLabel.Location = new Point(107, 385);
+            costLabel.Location = new Point(94, 289);
             costLabel.Name = "costLabel";
-            costLabel.Size = new Size(17, 20);
+            costLabel.Size = new Size(13, 15);
             costLabel.TabIndex = 6;
             costLabel.Text = "0";
             // 
             // label3
             // 
             label3.AutoSize = true;
-            label3.Location = new Point(12, 55);
+            label3.Location = new Point(10, 41);
             label3.Name = "label3";
-            label3.Size = new Size(304, 20);
+            label3.Size = new Size(233, 15);
             label3.TabIndex = 7;
             label3.Text = "Name                               Weight                     ";
             // 
             // label4
             // 
             label4.AutoSize = true;
-            label4.Location = new Point(420, 55);
+            label4.Location = new Point(368, 41);
             label4.Name = "label4";
-            label4.Size = new Size(38, 20);
+            label4.Size = new Size(31, 15);
             label4.TabIndex = 8;
             label4.Text = "Cost";
             // 
             // MainWin
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(482, 503);
+            ClientSize = new Size(424, 383);
             Controls.Add(label4);
             Controls.Add(label3);
             Controls.Add(costLabel);
@@ -139,8 +143,9 @@
             Controls.Add(addBtn);
             Controls.Add(label1);
             Controls.Add(weaponList);
-            MaximumSize = new Size(500, 550);
-            MinimumSize = new Size(500, 550);
+            Margin = new Padding(3, 2, 3, 2);
+            MaximumSize = new Size(440, 422);
+            MinimumSize = new Size(440, 422);
             Name = "MainWin";
             Text = "Weapon calculator";
             Load += Form1_Load;

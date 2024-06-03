@@ -35,9 +35,10 @@
             // 
             // gunBtn
             // 
-            gunBtn.Location = new Point(23, 27);
+            gunBtn.Location = new Point(20, 20);
+            gunBtn.Margin = new Padding(3, 2, 3, 2);
             gunBtn.Name = "gunBtn";
-            gunBtn.Size = new Size(134, 48);
+            gunBtn.Size = new Size(117, 36);
             gunBtn.TabIndex = 4;
             gunBtn.Text = "Create Gun";
             gunBtn.UseVisualStyleBackColor = true;
@@ -45,9 +46,10 @@
             // 
             // machinegunBtn
             // 
-            machinegunBtn.Location = new Point(236, 27);
+            machinegunBtn.Location = new Point(206, 20);
+            machinegunBtn.Margin = new Padding(3, 2, 3, 2);
             machinegunBtn.Name = "machinegunBtn";
-            machinegunBtn.Size = new Size(134, 48);
+            machinegunBtn.Size = new Size(117, 36);
             machinegunBtn.TabIndex = 5;
             machinegunBtn.Text = "Create Machinegun";
             machinegunBtn.UseVisualStyleBackColor = true;
@@ -55,9 +57,10 @@
             // 
             // bladeBtn
             // 
-            bladeBtn.Location = new Point(126, 93);
+            bladeBtn.Location = new Point(110, 70);
+            bladeBtn.Margin = new Padding(3, 2, 3, 2);
             bladeBtn.Name = "bladeBtn";
-            bladeBtn.Size = new Size(134, 48);
+            bladeBtn.Size = new Size(117, 36);
             bladeBtn.TabIndex = 6;
             bladeBtn.Text = "Create Blade";
             bladeBtn.UseVisualStyleBackColor = true;
@@ -65,16 +68,18 @@
             // 
             // ChooseWin
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(382, 153);
+            ClientSize = new Size(336, 121);
             Controls.Add(bladeBtn);
             Controls.Add(machinegunBtn);
             Controls.Add(gunBtn);
-            MaximumSize = new Size(400, 200);
-            MinimumSize = new Size(400, 200);
+            Margin = new Padding(3, 2, 3, 2);
+            MaximumSize = new Size(352, 160);
+            MinimumSize = new Size(352, 160);
             Name = "ChooseWin";
             Text = "ChooseWin";
+            Load += ChooseWin_Load;
             ResumeLayout(false);
         }
 

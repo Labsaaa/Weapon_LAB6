@@ -17,6 +17,7 @@ namespace Weapon8V23
         public ChooseWin()
         {
             InitializeComponent();
+            StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void onCreateGun(object sender, EventArgs e)
@@ -35,6 +36,11 @@ namespace Weapon8V23
         {
             result = "Blade";
             Close();
+        }
+
+        private void ChooseWin_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

@@ -26,6 +26,7 @@ namespace Weapon8V23
             bladeWeight.Text = weight.ToString();
             bladeLength.Text = length.ToString();
             bladeHandCount.Text = handCount.ToString();
+            StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void onSetClick(object sender, EventArgs e)

@@ -179,6 +179,7 @@ namespace Weapon8V23
         public MainWin()
         {
             InitializeComponent();
+            StartPosition = FormStartPosition.CenterScreen;
         }
 
         private void Form1_Load(object sender, EventArgs e)
