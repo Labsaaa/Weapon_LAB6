@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Weapon8V23", "Weapon8V23\Weapon8V23.csproj", "{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CA06E3F4-DF35-4011-B18C-FB769000808B} = {CA06E3F4-DF35-4011-B18C-FB769000808B}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MilitaryUnit", "MilitaryUnit\MilitaryUnit.csproj", "{CA06E3F4-DF35-4011-B18C-FB769000808B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5BB6CD7-7757-4AA0-9CFF-48D59F2E1BDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA06E3F4-DF35-4011-B18C-FB769000808B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA06E3F4-DF35-4011-B18C-FB769000808B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA06E3F4-DF35-4011-B18C-FB769000808B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA06E3F4-DF35-4011-B18C-FB769000808B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54A4D427-42D9-4133-8E16-3B8808535936}
+	EndGlobalSection
+EndGlobal

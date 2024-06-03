@@ -1,0 +1,48 @@
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\Weapon8V23.exe
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\Weapon8V23.deps.json
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\Weapon8V23.runtimeconfig.json
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\Weapon8V23.dll
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\Weapon8V23.pdb
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.csproj.GenerateResource.cache
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.AssemblyInfoInputs.cache
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.AssemblyInfo.cs
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.csproj.CoreCompileInputs.cache
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.dll
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\refint\Weapon8V23.dll
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.pdb
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.genruntimeconfig.cache
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\ref\Weapon8V23.dll
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\MilitaryUnit.dll
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\MilitaryUnit.pdb
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.csproj.AssemblyReference.cache
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.csproj.Up2Date
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.MainWin.resources
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.GunWin.resources
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.ChooseWin.resources
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.MachinegunWin.resources
+C:\Users\Casey\Desktop\Trash\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.BladeWin.resources
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\Weapon8V23.exe
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\Weapon8V23.deps.json
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\Weapon8V23.runtimeconfig.json
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\Weapon8V23.dll
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\Weapon8V23.pdb
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\MilitaryUnit.dll
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\bin\Debug\net8.0-windows\MilitaryUnit.pdb
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.csproj.AssemblyReference.cache
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.BladeWin.resources
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.ChooseWin.resources
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.GunWin.resources
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.MachinegunWin.resources
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.MainWin.resources
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.csproj.GenerateResource.cache
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.AssemblyInfoInputs.cache
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.AssemblyInfo.cs
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.csproj.CoreCompileInputs.cache
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.csproj.Up2Date
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.dll
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\refint\Weapon8V23.dll
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.pdb
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\Weapon8V23.genruntimeconfig.cache
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\Weapon8V23\obj\Debug\net8.0-windows\ref\Weapon8V23.dll

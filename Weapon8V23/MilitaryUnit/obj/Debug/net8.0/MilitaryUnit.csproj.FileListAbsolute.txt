@@ -1,0 +1,22 @@
+C:\Users\Casey\Desktop\Trash\Weapon8V23\MilitaryUnit\bin\Debug\net8.0\MilitaryUnit.deps.json
+C:\Users\Casey\Desktop\Trash\Weapon8V23\MilitaryUnit\bin\Debug\net8.0\MilitaryUnit.dll
+C:\Users\Casey\Desktop\Trash\Weapon8V23\MilitaryUnit\bin\Debug\net8.0\MilitaryUnit.pdb
+C:\Users\Casey\Desktop\Trash\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\MilitaryUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casey\Desktop\Trash\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\MilitaryUnit.AssemblyInfoInputs.cache
+C:\Users\Casey\Desktop\Trash\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\MilitaryUnit.AssemblyInfo.cs
+C:\Users\Casey\Desktop\Trash\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\MilitaryUnit.csproj.CoreCompileInputs.cache
+C:\Users\Casey\Desktop\Trash\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\MilitaryUnit.dll
+C:\Users\Casey\Desktop\Trash\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\refint\MilitaryUnit.dll
+C:\Users\Casey\Desktop\Trash\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\MilitaryUnit.pdb
+C:\Users\Casey\Desktop\Trash\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\ref\MilitaryUnit.dll
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\MilitaryUnit\bin\Debug\net8.0\MilitaryUnit.deps.json
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\MilitaryUnit\bin\Debug\net8.0\MilitaryUnit.dll
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\MilitaryUnit\bin\Debug\net8.0\MilitaryUnit.pdb
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\MilitaryUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\MilitaryUnit.AssemblyInfoInputs.cache
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\MilitaryUnit.AssemblyInfo.cs
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\MilitaryUnit.csproj.CoreCompileInputs.cache
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\MilitaryUnit.dll
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\refint\MilitaryUnit.dll
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\MilitaryUnit.pdb
+C:\Users\Максимка\OneDrive\Рабочий стол\C++\Weapon8V23\MilitaryUnit\obj\Debug\net8.0\ref\MilitaryUnit.dll
